@@ -25,12 +25,6 @@ Este projeto é um site para ajudar pessoas a **encontrar seus pets perdidos** o
 
 
 
-
-## 📁 Estrutura do Projeto
-
-```bash
-
-
 📲 Como Funciona
 Usuário cadastra um pet perdido ou encontrado com localização no mapa.
 
